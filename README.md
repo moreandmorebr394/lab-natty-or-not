@@ -23,16 +23,16 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
-
+É sobre uma ideia de um livro e por meio dessa AI, fui capaz de dissecar a ideia e transforma-la.
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+OpenAI, Rosebud AI
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Coloquei palavras chaves e desenvolveu as ideias que escrevi.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+### 🚀 Resultados
+- [Texto]([/app.writer.com/organization/765871/team/752028/document/6427274](https://chatgpt.com/c/41f3e45b-a241-413e-959b-f51a8214b829))
+- [Imagens](https://play.rosebud.ai/projects/24a11982-d719-4d58-a5f3-7872bdc8bb15)
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
@@ -40,9 +40,9 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 
 ### Exemplos e Insigths
 
-- [E-BOOK](/app.writer.com/organization/765871/team/752028/document/6427274)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [Texto]([/app.writer.com/organization/765871/team/752028/document/6427274](https://chatgpt.com/c/41f3e45b-a241-413e-959b-f51a8214b829))
+- [Imagens](https://play.rosebud.ai/projects/24a11982-d719-4d58-a5f3-7872bdc8bb15)
+
 
 ## Links Interessantes
 
